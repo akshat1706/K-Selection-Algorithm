@@ -118,14 +118,3 @@ public class MedianOfMedian {
     }
     
 }
-Capacity Strategy:
-    approaches to increasing and decreasing business capacity to meet demands
-
-Purchasing And Supply Srategy
-    Intense competitive pressures have forced companies to re-examine their approach to managing suppliers and their supply base.
-
-Process Technology Strategy
-    decisions that define the strategic role that direct and indirect process technology can play in the overall operations strategy of the organization and sets out the general characteristics that help to evaluate alternative technologies
-
-Resource Profiles
-    documented and curated agglomeration of resources of each enterprise via proposed research methods
